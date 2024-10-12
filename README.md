@@ -4,7 +4,7 @@ A small script to steal namefg images from 4chan
 This will download images across most 18+ boards on 4chan for images which are AI generated. The purpose of this is nothing more than a proof of concept for users who want to organize the generations of namefags on the AI generals and threads.
 
 1. Search "cmd" in Windows or do Win+R and enter in "cmd"
-2. Run "pip install name" for each of the following;
+2. Run "pip install" for each of the following;
 - pip install sys
 - pip install requests
 - pip install os
