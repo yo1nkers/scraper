@@ -19,6 +19,7 @@ This will download images across most 18+ boards on 4chan for images which are A
 - If you answer "yes" to download anon images, it will download images from also Anonymous users
 6. Enter search terms for your search.
 - You can split up searches by using "|". For example, if you want to search for something that's not in the AI threads, like YLYL, you could search "degenerated|ylyl", and it will search for them.
+- Additionally, you can use "-" before a term if you want to exclude it from the search. An example is below.
 - You can use "srch.txt" to automatically search for ALL possible AI threads across 4chan
 
 srch.txt:
