@@ -1,5 +1,5 @@
 # scraper
-A small script to steal namefg images from 4chan
+A small script written in tandem with Claude 3 Opus to steal namefg images from 4chan. Claude was able to improve this idea into something legible.
 
 This will download images across most 18+ boards on 4chan for images which are AI generated. The purpose of this is nothing more than a proof of concept for users who want to organize the generations of namefags on the AI generals and threads.
 
