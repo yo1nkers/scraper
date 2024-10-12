@@ -20,3 +20,6 @@ This will download images across most 18+ boards on 4chan for images which are A
 6. Enter search terms for your search.
 - You can split up searches by using "|". For example, if you want to search for something that's not in the AI threads, like YLYL, you could search "degenerated|ylyl", and it will search for them.
 - You can use "srch.txt" to automatically search for ALL possible AI threads across 4chan
+
+srch.txt:
+```degenerated|sdg|hdg|slop|ddg|asdg|-blacked|-gdg|-futa|-giant|-draw|-non-ai|-Sdbbw|-Dall-e|-blueberry|-Domestication|-swallowed```
